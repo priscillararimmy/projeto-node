@@ -3,13 +3,10 @@
 
 Repositório criado  com objetivo de obtenção de nota para o terceiro projeto  no curso DevInHouse (módulo 2)
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Imagens](#imagens)
 
 <a id="sobre"></a>
 
-## :bookmark: Sobre
+##  Sobre
 
 O <strong>Projeto DevinBank | Conta-365</strong> é o terceiro projeto da Turma Teltec e BRy do Dev in House, desenvolvido para prática e avaliação dos conhecimentos aprendidos no módulo 2 (backend com NodeJS) do curso.
 
@@ -22,10 +19,9 @@ O projeto aqui disposto foi desenvolvido utilizando as seguintes tecnologias:
 A documentação da API foi construída utilizando:
 - [Swagger](https://swagger.io/)
 Para a fazer modificações no layout da documentação
-- [CSS](https://www.w3schools.com/css/default.asp)
 
 <a id="imagens"></a>
-## :bookmark: Imagens
+## Imagens
 
 ### Documentação detalhada.
 
@@ -35,5 +31,5 @@ Para a fazer modificações no layout da documentação
 
 
 <h4 align="center">
-    Feito com ❤️ by <a href="https://www.linkedin.com/in/developer-danielmn/" target="_blank">Daniel Meireles</a>
+    <a href="https://www.linkedin.com/in/priscilla-rarimmy-lopes-pereira-1174461aa/" target="_blank">Priscilla Rarimmy Lopes Pereira</a>
 </h4>
