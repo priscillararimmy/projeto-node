@@ -12,6 +12,14 @@ O <strong>Projeto DevinBank | Conta-365</strong> é o terceiro projeto da Turma 
 
 <a id="tecnologias-utilizadas"></a>
 
+## Instação
+
+```bash
+npm install
+
+npm start
+```
+
 ## :rocket: Tecnologias Utilizadas
 
 O projeto aqui disposto foi desenvolvido utilizando as seguintes tecnologias:
@@ -21,13 +29,6 @@ A documentação da API foi construída utilizando:
 Para a fazer modificações no layout da documentação
 
 <a id="imagens"></a>
-## Imagens
-
-### Documentação detalhada.
-
-![Rotas Users](screens/users-routes.png?raw=true "Rotas user")
-
-![Rotas Transactions](screens/transactions-routes.png?raw=true "Rotas transactions")
 
 
 <h4 align="center">
