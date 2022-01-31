@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "userId": 18,
+      "financialData": [
+        {
+          "id": 7,
+          "price": 600,
+          "typesOfExpenses": "Groceries",
+          "date": "2021-12-12T06:00:00.000Z",
+          "name": "Supermarket"
+        }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "financialData": [
+        {
+          "id": 1,
+          "price": 200,
+          "typesOfExpenses": "Entertainment",
+          "date": "2022-10-01T08:00:00.000Z",
+          "name": "Party"
+        },
+        {
+          "id": 2,
+          "price": 550,
+          "typesOfExpenses": "Education",
+          "date": "2020-10-13T04:00:00.000Z",
+          "name": "College"
+        },
+        {
+          "id": 3,
+          "price": 60,
+          "typesOfExpenses": "Entertainment",
+          "date": "2020-10-14T03:00:00.000Z",
+          "name": "movie theater"
+        } 
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 16,
+      "financialData": [
+        {
+          "id": 1,
+          "price": 2000,
+          "typesOfExpenses": "Home",
+          "date": "2020-10-12T03:00:00.000Z",
+          "name": "rentals"
+        },
+        {
+          "id": 2,
+          "price": 550,
+          "typesOfExpenses": "Groceries",
+          "date": "2021-10-13T03:00:00.000Z",
+          "name": "supermarket"
+        },
+        {
+          "id": 3,
+          "price": 150,
+          "typesOfExpenses": "Entertainment",
+          "date": "2020-10-14T03:00:00.000Z",
+          "name": "Go out"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 6,
+      "financialData": [
+        {
+          "id": 2,
+          "price": 550,
+          "typesOfExpenses": "Education",
+          "date": "2022-10-10T03:00:00.000Z",
+          "name": "College"
+        },
+        {
+          "id": 3,
+          "price": 150,
+          "typesOfExpenses": "Entertainment",
+          "date": "2021-08-14T03:00:00.000Z",
+          "name": "Zoo"
+        },
+        {
+          "id": 6,
+          "price": 650,
+          "typesOfExpenses": "Home",
+          "date": "2021-11-19T03:00:00.000Z",
+          "name": "Bills"
+        }
+      ]
+    },
+      {
+        "id": 5,
+        "userId": 15,
+        "financialData": [
+          {
+            "id": 1,
+            "price": 500,
+            "typesOfExpenses": "Home",
+            "date": "2020-10-12T03:00:00.000Z",
+            "name": "rentals"
+          },
+          {
+            "id": 2,
+            "price": 550,
+            "typesOfExpenses": "Education",
+            "date": "2022-12-14T03:00:00.000Z",
+            "name": "College"
+          }
+        ]
+      }
+  ]
