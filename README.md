@@ -12,7 +12,7 @@ O <strong>Projeto DevinBank | Conta-365</strong> é o terceiro projeto da Turma 
 
 <a id="tecnologias-utilizadas"></a>
 
-## Instação
+## Instalação
 
 ```bash
 npm install
